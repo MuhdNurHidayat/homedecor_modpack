@@ -2,13 +2,13 @@
 # Copyright (C) 2017 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-14 03:47+0800\n"
-"PO-Revision-Date: 2017-11-14 03:46+0800\n"
+"PO-Revision-Date: 2017-11-14 04:25+0800\n"
 "Last-Translator: muhdnurhidayat <MuhdNurHidayat@users.noreply.github.com>\n"
 "Language-Team: Malay\n"
 "Language: ms\n"
@@ -121,7 +121,7 @@ msgstr "Candelier (Loyang)"
 
 #: ../computer/computers.lua
 msgid "Monitor and keyboard"
-msgstr "Monitor dan papan kekunci"
+msgstr "Monitor dan Papan Kekunci"
 
 #: ../computer/computers.lua
 msgid "WIFI Router"
@@ -133,7 +133,7 @@ msgstr "Sistem Unit"
 
 #: ../computer/computers.lua
 msgid "Printer-Scanner Combo"
-msgstr "Kombo Pengimbas-Pencetak"
+msgstr "Pencetak Semua Dalam Satu"
 
 #: ../computer/computers.lua
 msgid "Rack Server"
@@ -245,15 +245,15 @@ msgstr "Lubang Air Mandi"
 
 #: ../homedecor/bathroom_sanitation.lua
 msgid "Shower Head"
-msgstr "Kepala Air Mandi"
+msgstr "Kepala Pancuran"
 
 #: ../homedecor/bathroom_sanitation.lua
 msgid "Bathtub, clawfoot, with brass taps"
-msgstr "Tab Mandi, Kaki Cakar, Beserta Kepala Paip Loyang"
+msgstr "Tab Mandi Berkaki Cakar, dengan Kepala Paip Loyang"
 
 #: ../homedecor/bathroom_sanitation.lua
 msgid "Bathtub, clawfoot, with chrome taps"
-msgstr "Tab Mandi, Kaki Cakar, Beserta Kepala Paip Krom"
+msgstr "Tab Mandi Berkaki Cakar, dengan Kepala Paip Krom"
 
 #: ../homedecor/bathroom_sanitation.lua
 msgid "Bathroom sundries set"
@@ -300,28 +300,24 @@ msgid "green"
 msgstr "Hijau"
 
 #: ../homedecor/books.lua
-#, fuzzy
 msgid "blue"
-msgstr "biru"
+msgstr "Biru"
 
 #: ../homedecor/books.lua
-#, fuzzy
 msgid "violet"
-msgstr "ungu"
+msgstr "Ungu"
 
 #: ../homedecor/books.lua
-#, fuzzy
 msgid "grey"
-msgstr "Hijau Gelap"
+msgstr "Kelabu"
 
 #: ../homedecor/books.lua
 msgid "brown"
-msgstr ""
+msgstr "Perang"
 
 #: ../homedecor/books.lua
-#, fuzzy
 msgid "Writable Book (@1)"
-msgstr "Buku Boleh Ditulis"
+msgstr "Buku Boleh Ditulis (@1)"
 
 #: ../homedecor/books.lua
 msgid "@1 has written in a book (title: \"@2\"): \"@3\" at location @4"
@@ -385,11 +381,11 @@ msgstr "Sari Minyak"
 
 #: ../homedecor/crafts.lua
 msgid "Unprocessed paraffin"
-msgstr "Minyak Tanah Belum Diproses"
+msgstr "Parafin Belum Diproses"
 
 #: ../homedecor/crafts.lua
 msgid "Plastic strips"
-msgstr "Kepingan Plastik"
+msgstr "Jalur Plastik"
 
 #: ../homedecor/crafts.lua
 msgid "Small Wooden Drawer"
@@ -441,11 +437,11 @@ msgstr "Bilah Kipas"
 
 #: ../homedecor/crafts.lua
 msgid "Copper Strip"
-msgstr "Kepingan Tembaga"
+msgstr "Jalur Tembaga"
 
 #: ../homedecor/crafts.lua
 msgid "Steel Strip"
-msgstr "Kepingan Keluli"
+msgstr "Jalur Keluli"
 
 #: ../homedecor/crafts.lua
 msgid "Steel chainlink"
@@ -493,15 +489,15 @@ msgstr "Pintu Pejabat Kaca (Bukaan @1)"
 
 #: ../homedecor/doors_and_gates.lua
 msgid "Glass and Wood, Oak-colored (@1 opening)"
-msgstr "Kaca dan Kayu, warna Oak (Bukaan @1)"
+msgstr "Pintu Kayu Kaca, warna Oak (Bukaan @1)"
 
 #: ../homedecor/doors_and_gates.lua
 msgid "Glass and Wood, Mahogany-colored (@1 opening)"
-msgstr "Kaca dan Kayu, warna Mahogani (Bukaan @1)"
+msgstr "Pintu Kayu Kaca, warna Mahogani (Bukaan @1)"
 
 #: ../homedecor/doors_and_gates.lua
 msgid "Glass and Wood, White (@1 opening)"
-msgstr "Kaca dan Kayu, warna Putih (Bukaan @1)"
+msgstr "Pintu Kayu Kaca, warna Putih (Bukaan @1)"
 
 #: ../homedecor/doors_and_gates.lua
 msgid "Plain Wooden Door (@1 opening)"
@@ -637,7 +633,7 @@ msgstr "Kerusi Anduh"
 
 #: ../homedecor/exterior.lua
 msgid "Deck Chair (blue striped)"
-msgstr ""
+msgstr "Kerusi Anduh (Berjalur Biru)"
 
 #: ../homedecor/exterior.lua
 msgid "Doghouse"
@@ -663,11 +659,11 @@ msgstr "Kayu Putih"
 
 #: ../homedecor/exterior.lua
 msgid "wood, with vegetation"
-msgstr "Kayu, dengan Tumbuh-Tumbuhan"
+msgstr "Kayu, dengan Tumbuhan"
 
 #: ../homedecor/exterior.lua
 msgid "white wood, with vegetation"
-msgstr "Kayu Putih, dengan Tumbuh-Tumbuhan"
+msgstr "Kayu Putih, dengan Tumbuhan"
 
 #: ../homedecor/exterior.lua
 msgid "Garden Lattice (@1)"
@@ -686,9 +682,8 @@ msgid "yellow"
 msgstr "Kuning"
 
 #: ../homedecor/exterior.lua
-#, fuzzy
 msgid "Shrubbery (large, @1)"
-msgstr "Rumpun Pokok Renek (@1)"
+msgstr "Rumpun Pokok Renek (Besar, @1)"
 
 #: ../homedecor/exterior.lua
 msgid "Shrubbery (@1)"
@@ -798,7 +793,7 @@ msgstr "Kerusi Dapur"
 
 #: ../homedecor/furniture.lua ../lrfurn/armchairs.lua
 msgid "Armchair"
-msgstr "Kerusi Tangan"
+msgstr "Kerusi Berlengan"
 
 #: ../homedecor/furniture.lua
 msgid "Bookshelf (open-frame)"
@@ -826,7 +821,7 @@ msgstr "Obor Dinding"
 
 #: ../homedecor/furniture_medieval.lua
 msgid "Wall Lamp"
-msgstr "Lampu Meja"
+msgstr "Lantera Dinding"
 
 #: ../homedecor/gastronomy.lua
 msgid "Cutlery set"
@@ -1035,15 +1030,15 @@ msgstr "Tuala Dapur Pakai Buang"
 
 #: ../homedecor/lighting.lua
 msgid "Thick Glowlight"
-msgstr "Lampu Bara Tebal"
+msgstr "Lampu Putih Tebal"
 
 #: ../homedecor/lighting.lua
 msgid "Thin Glowlight"
-msgstr "Lampu Bara Nipis"
+msgstr "Lampu Putih Nipis"
 
 #: ../homedecor/lighting.lua
 msgid "Small Glowlight Cube"
-msgstr "Kiub Lampu Bara Kecil"
+msgstr "Kiub Lampu Putih Kecil"
 
 #: ../homedecor/lighting.lua
 msgid "Plasma Lamp"
@@ -1063,23 +1058,23 @@ msgstr "Lili Nipis"
 
 #: ../homedecor/lighting.lua
 msgid "Candlestick (wrought iron)"
-msgstr "Kaki Lilin (Besi Tempaan)"
+msgstr "Lilin Berkaki (Besi Tempaan)"
 
 #: ../homedecor/lighting.lua
 msgid "Candlestick (brass)"
-msgstr "Kaki Lilin (Loyang)"
+msgstr "Lilin Berkaki (Loyang)"
 
 #: ../homedecor/lighting.lua
 msgid "Wall sconce"
-msgstr "Pendakap Lampu Dinding"
+msgstr "Pendakap Lilin Dinding"
 
 #: ../homedecor/lighting.lua
 msgid "Oil lamp (hurricane)"
-msgstr "Lampu Minyak (Taufan)"
+msgstr "Pelita Gantung"
 
 #: ../homedecor/lighting.lua
 msgid "Oil Lamp (tabletop)"
-msgstr "Lampu Minyak (Atas Meja)"
+msgstr "Pelita Duduk"
 
 #: ../homedecor/lighting.lua
 msgid "Ground Lantern"
@@ -1235,7 +1230,7 @@ msgstr "Trofi"
 
 #: ../homedecor/misc-nodes.lua
 msgid "Sport bench"
-msgstr "Bangku Sukan"
+msgstr "Bangku Angkat Berat"
 
 #: ../homedecor/misc-nodes.lua
 msgid "Skateboard"
@@ -1246,9 +1241,8 @@ msgid "Metal tool cabinet and work table"
 msgstr "Kabinet Alatan Logam dan Meja Kerja"
 
 #: ../homedecor/misc-nodes.lua
-#, fuzzy
 msgid "Picture Frame "
-msgstr "Bingkai Gambar"
+msgstr "Bingkai Gambar "
 
 #: ../homedecor/misc-nodes.lua
 msgid "Decorative painting #@1"
@@ -1348,7 +1342,7 @@ msgstr "Genting Kaca"
 
 #: ../homedecor/roofing.lua
 msgid "Chimney"
-msgstr "Seombong"
+msgstr "Serombong"
 
 #: ../homedecor/shutters.lua
 msgid "Wooden Shutter"
@@ -1356,23 +1350,23 @@ msgstr "Pengatup Kayu"
 
 #: ../homedecor/tables.lua
 msgid "Small square glass table"
-msgstr "Meja Kaca Segi Empat Kecil"
+msgstr "Kaca Meja Segi Empat Kecil"
 
 #: ../homedecor/tables.lua
 msgid "Small round glass table"
-msgstr "Meja Kaca Bulat Kecil"
+msgstr "Kaca Meja Bulat Kecil"
 
 #: ../homedecor/tables.lua
 msgid "Large glass table piece"
-msgstr "Kepingan Meja Kaca Besar"
+msgstr "Kepingan Kaca Meja Besar"
 
 #: ../homedecor/tables.lua
 msgid "Small square wooden table"
-msgstr "Meja Kayu Segi Empat Kecil"
+msgstr "Kepingan Meja Kayu Segi Empat Kecil"
 
 #: ../homedecor/tables.lua
 msgid "Small round wooden table"
-msgstr "Meja Kayu Bulat Kecil"
+msgstr "Kepingan Meja Kayu Bulat Kecil"
 
 #: ../homedecor/tables.lua
 msgid "Large wooden table piece"
@@ -1380,7 +1374,7 @@ msgstr "Kepingan Meja Kayu Besar"
 
 #: ../homedecor/tables.lua
 msgid "Utility Table"
-msgstr "Meja Utiliti"
+msgstr "Kepingan Meja Utiliti"
 
 #: ../homedecor/tables.lua
 msgid "Table Legs (@1)"
@@ -1435,9 +1429,8 @@ msgid "Curtains"
 msgstr "Langsir"
 
 #: ../homedecor/window_treatments.lua
-#, fuzzy
 msgid "Curtains (open)"
-msgstr "Langsir"
+msgstr "Langsir (Terbuka)"
 
 #: ../homedecor/window_treatments.lua
 msgid "Curtain Rod (@1)"
@@ -1523,7 +1516,7 @@ msgstr "Sofa"
 
 #: ../plasmascreen/init.lua
 msgid "Plasma Screen TV Stand"
-msgstr "Kaki TV Skrin Plasma"
+msgstr "Kaki TV Plasma"
 
 #: ../plasmascreen/init.lua
 msgid "Plasma TV"
